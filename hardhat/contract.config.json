@@ -1,0 +1,8 @@
+{
+  "theGraph": {
+    "artifactsPath": "GravatarRegistry.sol/GravatarRegistry.json",
+    "name": "GravatarRegistry",
+    "ctor": [],
+    "jsonName": "gravity"
+  }
+}
